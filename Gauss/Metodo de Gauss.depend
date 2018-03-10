@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384869514 source:c:\users\matheus\documents\workspace codeblocks\metodo de gauss\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384257070 source:c:\users\matheus\documents\workspace codeblocks\prova\main.c
+	<stdio.h>
+	<stdlib.h>
+
